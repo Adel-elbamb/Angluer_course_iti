@@ -1,0 +1,1 @@
+let arr : (string | number ) [] = [1,2,4,5,67,7,'adel' , "ramadan"]
